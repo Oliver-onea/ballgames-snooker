@@ -1,0 +1,11 @@
+.cpp-env/
+.micromamba/
+.tools/
+.venv/
+build/
+build-sdl/
+native/__pycache__/
+native/pygame/__pycache__/
+*.pyc
+*.exe
+项目2(1).exe
