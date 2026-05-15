@@ -85,6 +85,8 @@ PyInstaller 不能可靠跨系统交叉打包。
 
 更完整的平台命令见 `docs/PLATFORMS.md`。
 
+逆向和移植过程见 `docs/REPORT.md`。
+
 ## 操作
 
 - 开局移动鼠标预览白球位置，左键确认摆球。
